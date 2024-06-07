@@ -155,16 +155,16 @@
 
 
 
-// // {
-// //     // masala 10
-// //     let a = +prompt("a sonini kirting")
-// //     let b = +prompt("b sonini kirting")
-// //     let sum = 0
-// //     if(a!=b){
-// //         sum = a + b
-// //         alert(${sum})
-// //     }else{
-// //         a = 0
-// //         b = 0
-// //         alert(${a} ${b})
-// //     }
+{
+    // masala 10
+    let a = +prompt("a sonini kirting")
+    let b = +prompt("b sonini kirting")
+    let sum = 0
+    if(a!=b){
+        sum = a + b
+        alert(${sum})
+    }else{
+        a = 0
+        b = 0
+        alert(${a} ${b})
+    }
